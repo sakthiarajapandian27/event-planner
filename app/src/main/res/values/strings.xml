@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Event Planner</string>
+
+    <string-array name="event_categories">
+        <item>Work</item>
+        <item>Social</item>
+        <item>Travel</item>
+        <item>Health</item>
+        <item>Study</item>
+        <item>Personal</item>
+        <item>Other</item>
+    </string-array>
+</resources>
